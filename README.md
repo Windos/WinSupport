@@ -1,4 +1,6 @@
-# PowerShell Azure Function Hello World
+# WinSupport - Windows Support Date Lookup Endpoints
+
+Azure Function for looking up Windows (Desktop and Server) support dates.
 
 [![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://azuredeploy.net/?repository=https://github.com/Windos/WinSupport/tree/master)
 
