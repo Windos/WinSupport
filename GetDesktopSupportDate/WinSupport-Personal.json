@@ -168,5 +168,15 @@
         "Name": "Windows 10 1909",
         "Mainstream": "2021-05-11",
         "Extended": "2022-05-10"
+    },
+    "10.0.19041": {
+        "Name": "Windows 10 2004",
+        "Mainstream": "2021-12-14",
+        "Extended": "2021-12-14"
+    },
+    "10.0.19042": {
+        "Name": "Windows 10 20H2",
+        "Mainstream": "2022-05-10",
+        "Extended": "2023-05-09"
     }
 }
